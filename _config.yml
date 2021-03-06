@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 
 title:            'cosmo0 retro software'
 tagline:          ''
-description:      'Arcade management tool to handle your MAME/FBA romsets'
+description:      ''
 url:              https://cosmo0.github.io/
 baseurl:          /
 
