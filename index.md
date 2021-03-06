@@ -2,7 +2,7 @@
 
 Retro software:
 
-- [Arcade Manager](https://github.com/cosmo0/arcade-manager)
+- [Arcade Manager](https://cosmo0.github.io/arcade-manager/)
 - [Console overlays](https://github.com/cosmo0/retropie-overlays)
 
 In french:
